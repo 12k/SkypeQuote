@@ -46,7 +46,7 @@ namespace SkypeQuote
         private void label2_Click(object sender, EventArgs e)
         {
             // Open default browser on twitter.com/ly_gs.
-            Process.Start("http://twitter.com/ly_gs");
+            Process.Start("https://github.com/12k/");
         }
     }
 }
